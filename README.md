@@ -12,9 +12,9 @@ and a profile will be created based on their initial weight, plan, and other cha
 
 3. User will be given all possible locations on CMU campus to perform the exercises given in any specific workout.
 
-###################################################
-          BONUS FEATURES IF TIME ALLOWS
-###################################################
+
+BONUS FEATURES IF TIME ALLOWS
+
 
 4. Record all workouts completed and the user's feedback on max reps, tiredness etc... Use this data to update user model.
 
